@@ -2,7 +2,7 @@ Two Python scripts were written to help with the project.
 They were needed as parts of the project would not have been able to be completed just using manual labor.
 These included:
 
-Read_Write_Report_to_asc.py
+### Read_Write_Report_to_asc.py
 After processing the rendered viewsheds in QGIS, it saved a R-statistics file for every image containing the ammount of white to black pixels. 
 These values then had to be extracted from these individual files and saved in a .asc file, so that it could then be opened by QGIS again and display the raster image
 of the viewshed. The values had to be formated correctly into the .asc file.
@@ -17,7 +17,7 @@ which is then converted to an int number. It then performs a mathematical operat
 If the current file number is not a multiple of the number of columns, it writes the value followed by a space, otherwise it writes the value followed by a new line.
 
 
-Viewshed_Simulation_Script_Blender.py
+### Viewshed_Simulation_Script_Blender.py
 As the project needed to calculate the viewshed from many positions, a script was written to be able to switch from position to position, 
 render the image and then save it with a formatted name. Render time was also saved using this method, cutting off a couple seconds per image.
 
