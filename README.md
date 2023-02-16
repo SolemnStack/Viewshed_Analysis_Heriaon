@@ -1,5 +1,8 @@
 # Viewshed Analysis of the Heriaon
 
+#### DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7646532.svg)](https://doi.org/10.5281/zenodo.7646532)
+Reconstruction model and viewshed renders not included in the GitHub repo due to large filesizes. THey can instead befound in the above Zenodo archive.
+
 ## Abstract
 This project aims to conduct a 3D visibility analysis of the Pinakes at the Heraion of Olympia, using the open-source software Blender and QGIS. The project builds on previous work by other researchers on the Pinakes at the site, and aims to use the 3D model to better understand the visibility of the Pinakes from different viewpoints near the temple. The results will be visualized using raster maps for better understanding of the function of the Pinakes in the context of the Heraion.
 
