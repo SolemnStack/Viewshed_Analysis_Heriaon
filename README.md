@@ -23,3 +23,6 @@ The project results in a 3D model of the Heraion and its surrounding area, as we
 
 ## Conclusion
 The project makes a contribution to the field by providing a better understanding of the function of the Pinakes in the context of the Heraion. It also provides a way to conduct visibility analysis using only free and open-source software.
+
+### Author
+Stefan Wetherington
